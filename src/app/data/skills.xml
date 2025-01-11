@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <technical>
+    <web>
+      <skill>HTML</skill>
+      <scripts>
+        <skill>JavaScript</skill>
+        <skill>React</skill>
+        <skill>Three.js</skill>
+      </scripts>
+      <styles>
+        <skill>CSS</skill>
+        <skill>Tailwind</skill>
+        <skill>Bootstrap</skill>
+      </styles>
+      <tools>
+        <skill>NextJS</skill>
+        <skill>AEM</skill>
+        <skill>Maven</skill>
+        <skill>Wordpress</skill>
+        <skill>Node</skill>
+        <skill>Storybook</skill>
+      </tools>
+      <aws>
+        <skill>Certified Cloud Practitioner</skill>
+        <skill>DynamoDB</skill>
+        <skill>Amplify</skill>
+        <skill>API Gateway</skill>
+        <skill>Lambda</skill>
+      </aws>
+      <deployment>
+        <skill>Small/Med/ and Large Scale Site Deployments</skill>
+      </deployment>
+      <web_other>
+        <skill>SEO</skill>
+        <skill>Site Optimizations</skill>
+        <skill>Accessibility</skill>
+        <skill>Responsive Web Design</skill>
+        <skill>QA and Testing</skill>
+        <skill>Debugging</skill>
+        <skill>Algos</skill>
+        <skill>API</skill>
+        <skill>AI Philosophy</skill>
+      </web_other>
+    </web>
+    <other>
+      <skill>git/github/gitlab</skill>
+      <skill>Bitbucket</skill>
+      <skill>npm, yarn</skill>
+      <skill>CLI</skill>
+      <skill>Documentation</skill>
+    </other>
+    <security>
+      <skill>CompTIA Security + Certified</skill>
+    </security>
+    <embedded>
+      <skill>C/C++</skill>
+      <skill>Arduino</skill>
+      <skill>Python</skill>
+      <skill>Pi</skill>
+      <skill>G-code</skill>
+    </embedded>
+  </technical>
+  <soft>
+    <skill>Communication</skill>
+    <skill>Critical Thinking</skill>
+    <skill>Reflection</skill>
+    <skill>Planning</skill>
+  </soft>
+</skills>
