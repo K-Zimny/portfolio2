@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<achievements>
+  <achievement>
+    <title>
+      Contributed to the Launch of a High-Security Web Application for a Leading Enterprise
+    </title>
+    <description>
+      Played a key role as a developer in the successful launch of a secure and hardened web
+      application under strict compliance requirements. Took ownership of high-impact feature
+      development, showcasing leadership and delivering improvements that enhanced user experience
+      and met business objectives.
+    </description>
+  </achievement>
+  <achievement>
+    <tile>
+      CompTIA Security+ Certified
+    </tile>
+    <description>
+      Achieved certification demonstrating strong foundational knowledge in cybersecurity principles
+      and best practices ahead of schedule, saving project hours and with high accuracy.
+    </description>
+  </achievement>
+  <achievement>
+    <tile>
+      Frontend, Full-Stack, and Embedded Development
+    </tile>
+    <description>
+      Successfully developed and deployed diverse projects, including frontend solutions, full-stack
+      applications, and embedded systems, showcasing adaptability and cross-disciplinary
+      expertise.
+    </description>
+  </achievement>
+  <achievement>
+    <tile>
+      AWS Certified Cloud Practitioner
+    </tile>
+    <description>
+      Validated comprehensive understanding of cloud computing fundamentals including AWS services,
+      architecture, and deployment.
+    </description>
+  </achievement>
+  <achievement>
+    <tile>
+      Versatile Team Experience
+    </tile>
+    <description>
+      Worked as a sole developer, an business owner (LLC), and as part of small and large teams,
+      contributing to and thriving in a variety of collaborative environments.
+    </description>
+  </achievement>
+</achievements>
