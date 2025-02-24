@@ -2,7 +2,10 @@
 <skills>
   <technical>
     <web>
-      <skill>HTML</skill>
+      <markup>
+        <skill>HTML</skill>
+        <skill>HTL</skill>
+      </markup>
       <scripts>
         <skill>JavaScript</skill>
         <skill>React</skill>
@@ -11,7 +14,6 @@
       <styles>
         <skill>CSS</skill>
         <skill>Tailwind</skill>
-        <skill>Bootstrap</skill>
       </styles>
       <tools>
         <skill>NextJS</skill>
@@ -29,8 +31,11 @@
         <skill>Lambda</skill>
       </aws>
       <deployment>
-        <skill>Small/Med/ and Large Scale Site Deployments</skill>
+        <skill>Small / Med/ and Large Scale Site Deployments</skill>
       </deployment>
+      <design>
+        <skill>Design Fundamentals</skill>
+      </design>
       <web_other>
         <skill>SEO</skill>
         <skill>Site Optimizations</skill>
