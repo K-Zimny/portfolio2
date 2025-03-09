@@ -22,6 +22,7 @@
         <skill>Wordpress</skill>
         <skill>Node</skill>
         <skill>Storybook</skill>
+        <skill>AI - GPT</skill>
       </tools>
       <aws>
         <skill>Certified Cloud Practitioner</skill>
@@ -32,6 +33,9 @@
       </aws>
       <deployment>
         <skill>Small / Med/ and Large Scale Site Deployments</skill>
+        <skill>Vercel</skill>
+        <skill>AWS</skill>
+        <skill>Dreamhost</skill>
       </deployment>
       <design>
         <skill>Design Fundamentals</skill>
