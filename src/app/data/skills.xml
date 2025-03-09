@@ -35,6 +35,7 @@
       </deployment>
       <design>
         <skill>Design Fundamentals</skill>
+        <skill>Figma</skill>
       </design>
       <web_other>
         <skill>SEO</skill>
@@ -46,6 +47,7 @@
         <skill>Algos</skill>
         <skill>API</skill>
         <skill>AI Philosophy</skill>
+        <skill>Ecommerce</skill>
       </web_other>
     </web>
     <other>
@@ -73,4 +75,9 @@
     <skill>Planning/Organization</skill>
     <skill>Passionately Professional</skill>
   </soft>
+  <other>
+    <skill>3D Print</skill>
+    <skill>CAD / Fusion360</skill>
+    <skill>Electronics</skill>
+  </other>
 </skills>
